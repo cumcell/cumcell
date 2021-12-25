@@ -1,7 +1,7 @@
 ＬＡＮＧＵＡＧＥＳ:
 
 [<img src='https://camo.githubusercontent.com/65b616ed4448c46e59c11345a1d49a01adc6d51f9bd6e93ee61d29573e04c597/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2d776f72646d61726b2e737667' alt='github' height='40'>](https://github.com/cumcell)   [<img 
-src='https://www.clipartmax.com/png/middle/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png' alt='github' height='40'>](https://github.com/cumcell)   [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png' alt='github' height='40'>](https://github.com/cumcell)
+src='https://icon-library.com/images/c-language-icon/c-language-icon-20.jpg' alt='github' height='40'>](https://github.com/cumcell)   [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png' alt='github' height='40'>](https://github.com/cumcell)
 
 ＳＯＣＩＡＬＳ:
 
