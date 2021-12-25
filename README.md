@@ -7,6 +7,8 @@ src='https://www.clipartmax.com/png/middle/351-3515666_c-language-global-or-exte
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cumcell)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/704heir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](blade.ninja)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/heirxyz/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/704heir)  
 
-![Profile views](https://gpvc.arturio.dev/cumcell)  
+ＧＩＴＨＵＢ ＳＴＡＴＳ:
 
 ![GitHub metrics](https://metrics.lecoq.io/cumcell)  
+
+![Profile views](https://gpvc.arturio.dev/cumcell)  
