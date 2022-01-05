@@ -6,9 +6,3 @@ src='https://icon-library.com/images/c-language-icon/c-language-icon-20.jpg' alt
 ＳＯＣＩＡＬＳ:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/he1r)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/704heir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](blade.ninja)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/heirxyz/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/704heir)  
-
-ＧＩＴＨＵＢ ＳＴＡＴＳ:
-
-![GitHub metrics](https://metrics.lecoq.io/he1r)  
-
-![Profile views](https://gpvc.arturio.dev/he1r)  
