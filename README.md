@@ -74,7 +74,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/he1r/he1r/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/he1r/he1r/snake.svg" alt="Snake animation" />
 
 ###
 
