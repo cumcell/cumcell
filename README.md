@@ -74,8 +74,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/he1r/he1r/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
